@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Apprentise</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="dob">Date of Birth: </string>
+    <string name="gender">Gender: </string>
+    <string name="nationality">Nationality: </string>
+    <string name="newline">\n</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="sacit">SA Citizen</string>
+    <string name="permanentr">Permanent Resident</string>
+
+</resources>
